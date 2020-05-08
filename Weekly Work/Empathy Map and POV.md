@@ -1,4 +1,5 @@
 ## Empathy Map
+#### Customer
 
 ## Point of View Statements
 
