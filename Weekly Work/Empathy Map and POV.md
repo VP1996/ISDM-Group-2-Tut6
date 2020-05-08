@@ -2,10 +2,10 @@
 
 #### Call Representative
 
-- As a call representative I don’t want to be verbally abused by the customer so I wish there was a way to alleviate the stress on phone calls (stress meaning too many calls)
-- As a call representative I want to maintain a positive, empathetic and professional attitude towards the customers at all times.
-- As a call representative I want to respond to customer inquiries promptly by acknowledging and resolving customer complaints.
-- As a call representative I need to know about our products inside and out so that I can answer customer questions efficiently and to the best of my ability.
+- As a call representative, I don’t want to be verbally abused by the customer so I wish there was a way to alleviate the stress on phone calls (stress meaning too many calls)
+- As a call representative, I want to maintain a positive, empathetic and professional attitude towards the customers at all times.
+- As a call representative,I want to respond to customer inquiries promptly by acknowledging and resolving customer complaints.
+- As a call representative, I need to know about our products inside and out so that I can answer customer questions efficiently and to the best of my ability.
 - As a call representative, I want to ensure customer satisfaction and provide professional customer support.
 - As a call representative, I want to answer or make calls to clients to learn about and address their needs or other issues with products or services.
 
@@ -21,9 +21,9 @@
 
 #### Customer
 
-- As a customer I fear that I will lose out on good promotional deals because of me not being made aware about it.
-- As a customer I am anxious about not getting a refund if I miss my flight or trip due to some personal reason.
-- As a customer I don't trust these travel companies as they can be fraud .
-- As a customer I want a response to my inquiry as prompt as possible.
-- As a customer I want to feel valued by the Relationship manager as I am helping them make sales.
+- As a customer, I fear that I will lose out on good promotional deals because of me not being made aware about it.
+- As a customer, I am anxious about not getting a refund if I miss my flight or trip due to some personal reason.
+- As a customer, I don't trust these travel companies as they can be fraud .
+- As a customer, I want a response to my inquiry as prompt as possible.
+- As a customer, I want to feel valued by the Relationship manager as I am helping them make sales.
 - As a customer, I feel frustrated that I am put on hold for a long time so I wish my call was redirected instantly to an RM.
