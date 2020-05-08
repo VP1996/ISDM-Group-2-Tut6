@@ -18,3 +18,12 @@
 - As a call centre manager, I need to ensure the staff members are achieving desired service levels and taking corrective action, as needed.
 - As a call centre manager, I need to prepare reports and analyse call centre data to improve processes, ensure resources and properly allocated, and maximise efficiency and customer satisfaction.
 - As a call centre manager, I need to take on other tasks or projects or projects to support employees, other managers, and call centre operations.
+
+#### Customer
+
+- As a customer I fear that I will lose out on good promotional deals because of me not being made aware about it.
+- As a customer I am anxious about not getting a refund if I miss my flight or trip due to some personal reason.
+- As a customer I don't trust these travel companies as they can be fraud .
+- As a customer I want a response to my inquiry as prompt as possible.
+- As a customer I want to feel valued by the Relationship manager as I am helping them make sales.
+- As a customer, I feel frustrated that I am put on hold for a long time so I wish my call was redirected instantly to an RM.
