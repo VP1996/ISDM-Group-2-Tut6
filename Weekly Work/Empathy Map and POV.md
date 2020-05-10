@@ -1,5 +1,51 @@
 ## Empathy Map
 #### Customer
+#### Think & Feel: 
+- Fear of losing out on good promotional deals.
+- Anxiety about not getting a refund for their missed flight / holiday.
+- Fear about the business company being fraud.
+#### Hear: 
+- Sometimes it takes a lot of time to connect with the managers.
+- The calls are unclear.
+- Difficult to find the correct phone numbers.
+- Does Not have language varieties.
+#### See: 
+- Not given enough value/ attention  by the Relationship manager by ignoring their call or longer waiting time.
+- Other competitors have better promotional deals than the specific travel company offering.
+- Reading bad reviews from previous unsatisfied customers about not getting good service.
+#### Say & Do: 
+- Always just hear them being sorry for inconvenience but they never taken seriously
+#### Pain:
+- Their issues/questions remain unsolved and unanswered.
+- Anger/frustration from the problem not being able to be solved.
+- Building up a bad mental reputation of the company.
+#### Gain:
+- Perhaps eventually the business will react and develop a better customer service system.
+#### Call Centre Manager and Call Representative
+#### Think & Feel: 
+- Unhealthy job, constantly sitting or in front of a computer.
+- Not enough social life.
+- Repetitive.
+- Sometimes difficult to understand.
+#### Hear: 
+- Angry statements + unpleasing comments from the customers.
+- Frustration from the customers which may lead to a loss of customers.
+- Apologies from the team.
+#### See: 
+- A lot of the callers ask the same topic.
+- Depressed work environment.
+- Outdated phone connections.
+- Delayed emails.
+#### Say & Do: 
+- Improve the work environment.
+- Modernise the call system and the phones.
+#### Pain:
+- Potential loss of customers + customer loyalty.
+- Loss of customers = Bad Reputation for the company and staff.
+- Incase of an incorrect match they may not have enough information to provide the customer with.
+#### Gain:
+- RM knowledge is mostly matched with the destination of the customers.
+- Regardless, A basic script is provided, so regardless of how much knowledge each RM has in regards to the holiday destination, they at least know what to say and when.
 
 ## Point of View Statements
 
