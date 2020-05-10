@@ -1,4 +1,4 @@
-## Empathy Map
+## Empathy Maps
 #### Customer
 #### Think & Feel: 
 - Fear of losing out on good promotional deals.
