@@ -6,11 +6,11 @@ Clients are encountering an unpleasant experience from contacting a major travel
 
 - To potentially solve the issue of customers feeling agitated and hanging up (providing a solution to the long wait times)
 - To develop a whole new customer service system
--- Implement an online platform alongside the call center management
--- Live chat option
--- To create an appointment schedule system (Where customers book an appointment in advance and receive a call from the RM’s at their selected time)
--- Separate different enquiries (Pricing, Flights, Packages)
--- FAQ Page will allow less inflow of queries
+- Implement an online platform alongside the call center management
+- Live chat option
+- To create an appointment schedule system (Where customers book an appointment in advance and receive a call from the RM’s at their selected time)
+- Separate different enquiries (Pricing, Flights, Packages)
+- FAQ Page will allow less inflow of queries
 
 #### Possible extra feature:
 
