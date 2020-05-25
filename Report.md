@@ -91,14 +91,18 @@ We have brainstormed a possible solution that may aid in the problems the CMC is
 ![Use Case Diagram](/Weekly%20Work/Graphs/Use%20Case%20Diagrams.jpg)
 
 ## Activity Diagram
-![Present Activity Diagram](/Weekly%20Work/Graphs/EXISITING%20AD.png)
-![Future Activity Diagram](/Weekly%20Work/Graphs/FUTURE%20AD.png)
+![Present Activity Diagram](/Weekly%20Work/Graphs/AD.png)
+![Future Activity Diagram](/Weekly%20Work/Graphs/AD.png)
 
 ## Collaborative Diagram
-![Present Collab Diagram](/Weekly%20Work/Graphs/Future%20Collaboration%20Diagram.png)
-![Future Collab Diagram](/Weekly%20Work/Graphs/Present%20Collaboration%20Diagram.png)
+![Collab Diagram](/Weekly%20Work/Graphs/Collaboration%20Diagram.png)
 
 ### Summary of Diagrams
+In reference to the diagrams above, the new system provides more features for the customers and relationship managers. A receptionist is no longer required due to all processes occuring online, and all connections will happen automatically. After accessing the website, the customers will be able to access FAQ which will be continuously updated by the Software Administrator or the company managers. It will include all repetitive questions and issues that customers had in the past. Futhermore, the website will allow the users to call if their enquiry is unable to be solved via the website.
+
+By calling through the online platform, the user will be automatically redirected to the next available Relationship Manager. However, if all the managers are busy, the user will be placed on the waiting room. Each page will have a specific ID and will display the customers approximate time of waiting. The customer may request a call back if they choose not to wait.  The user will be redirected to a new page where they will be able to leave their full name, email, phone number and issue. An available manager will receive the request and call the customer back. 
+
+Moreover, once the customer chooses to call via the online platform, they will be able to register on the website. All calls will be saved within their history, and the system will remember which manager they talked to. Therefore, the next time the customer will have an issue, they will be able to login and request a call from a previously contacted relationship manager. 
 
 ## Class Diagram
 
