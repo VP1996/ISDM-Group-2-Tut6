@@ -1,5 +1,26 @@
 # Introduction
 
+# Problem Definition
+
+Clients are encountering an unpleasant experience from contacting a major travel company’s call centre management system due to high traffic of calls and a lack of response. Additionally, Relationship Managers of the call centre management are inhibited from performing their tasks to a high standard, which proves challenging for this travel company. Due to the length of call handling times of clients having to repeat their problem at different stages of their call has consequently led to poor customer service and experience. In order to resolve the problem the call centre management is currently experiencing, there must be an improvement in the already existing information system to assist in communication and operation flow, resulting in a smoother and engaging experience for their customer.
+
+## Objectives
+
+- To potentially solve the issue of customers feeling agitated and hanging up thus providing a solution to the long wait times
+- To develop a new online platform to improve customer service satisfaction
+- Integrate the online platform alongside the Call Management Centre
+- The online platform will primarily be FAQs to allow less inflow of query calls
+- Separate different enquiries such as pricing, flights, packages
+
+## Stakeholders
+- Customers
+- Relationship Managers
+- Call routing and distribution
+
+### Empathy Map
+
+Insert Empathy Map here
+
 # Reflection
 
 The call management centre (CMC) requires a new and improved system to assist in managing a high traffic of calls from clients. To alleviate the issues and challenges the CMC currently faces, we have brainstormed ideas that may aid these issues. The main problems of the current system include the need to manually divert calls to the appropriate Relationship Managers (RM), resulting in longer wait times on the client end. This eventually leads to poor customer service and experience. Additionally, RM faces the difficulties of completing their tasks and jobs to a high standard, inhibiting them from providing excellent customer service.
