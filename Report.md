@@ -27,6 +27,30 @@ Clients are encountering an unpleasant experience from contacting a major travel
 
 ![RM Empathy Map](/Weekly%20Work/Graphs/RMEmpathy.PNG)
 
+## Point of View Statements
+
+Point Of View (POV) statements were established to help understand the problem. It enabled us to ideate in a goal-oriented matter. The following statements were created:
+
+- As a customer, I feel frustrated that I am put on hold for a long time so I wish my call was redirected instantly to an RM.
+- As a customer, I fear that I will lose out on good promotional deals because of me not being made aware about it.
+- As a customer, I am anxious about not getting a refund if I miss my flight or trip due to some personal reason.
+- As a customer, I don't trust these travel companies as they can be fraud .
+- As a customer, I want a response to my inquiry as prompt as possible.
+- As a customer, I want to feel valued by the Relationship manager as I am helping them make sales.
+- As a Relationship Manager, I don’t want to be verbally abused by the customer so I wish there was a way to alleviate the stress on phone calls
+- As a Relationship Manager, I want to maintain a positive, empathetic and professional attitude towards the customers at all times.
+- As a Relationship Manager, I want to respond to customer inquiries promptly by acknowledging and resolving customer complaints.
+- As a Relationship Manager, I need to know about our products inside and out so that I can answer customer questions efficiently and to the best of my ability.
+- As a Relationship Manager, I want to ensure customer satisfaction and provide professional customer support.
+- As a Relationship Manager, I want to answer or make calls to clients to learn about and address their needs or other issues with products or services.
+
+From these POV statements made, the following solutions were created:
+1. Develop the website to support the call system.
+2. Replace the receptionist with a much quicker and cheaper alternative.
+3. Reduce the waiting time and implement a  “call back” system. 
+4. Implement a FAQ on the website in order to reduce the number or unnecessary calls with the same enquiry.
+5. Design a user friendly website.
+
 # Reflection
 
 The call management centre (CMC) requires a new and improved system to assist in managing a high traffic of calls from clients. To alleviate the issues and challenges the CMC currently faces, we have brainstormed ideas that may aid these issues. The main problems of the current system include the need to manually divert calls to the appropriate Relationship Managers (RM), resulting in longer wait times on the client end. This eventually leads to poor customer service and experience. Additionally, RM faces the difficulties of completing their tasks and jobs to a high standard, inhibiting them from providing excellent customer service.
@@ -60,5 +84,22 @@ For a system to be developed, we had created assumptions based on the case study
 13. A customer could potentially be redirected to an RM that may not have sufficient knowledge to assist their problems during busier times.
 
 We have brainstormed a possible solution that may aid in the problems the CMC is experiencing. Through the establishment of an online platform, primarily a website, it would be utilised to support the CMC. A physical receptionist would be replaced, resulting in a much quicker and cheaper alternative. This would eventually reduce customer waiting time, and a “call back” system could be implemented to answer urgent questions made by the customers. Additionally, the website will include a Frequently Asked Questions page in order to reduce the number of unnecessary calls from customers with the same enquiry. It is important to emphasise the UX/UI of this website, creating it to be user-friendly to support customers of all ages and backgrounds. As a group, we believe that this idea has the most potential to alleviate the struggles of the CMC and provide great service to the customers that utilise this company for their travelling needs.
+
+# Prototyping and Models
+
+## Use Case Diagram
+![Use Case Diagram](/Weekly%20Work/Graphs/Use%20Case%20Diagrams.jpg)
+
+## Activity Diagram
+![Present Activity Diagram](/Weekly%20Work/Graphs/EXISITING%20AD.png)
+![Future Activity Diagram](/Weekly%20Work/Graphs/FUTURE%20AD.png)
+
+## Collaborative Diagram
+![Present Collab Diagram](/Weekly%20Work/Graphs/Future%20Collaboration%20Diagram.png)
+![Future Collab Diagram](/Weekly%20Work/Graphs/Present%20Collaboration%20Diagram.png)
+
+### Summary of Diagrams
+
+## Class Diagram
 
 ![Class Diagram](/Weekly%20Work/Graphs/ClassFinal.png)
