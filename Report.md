@@ -34,4 +34,4 @@ For a system to be developed, we had created assumptions based on the case study
 
 We have brainstormed a possible solution that may aid in the problems the CMC is experiencing. Through the establishment of an online platform, primarily a website, it would be utilised to support the CMC. A physical receptionist would be replaced, resulting in a much quicker and cheaper alternative. This would eventually reduce customer waiting time, and a “call back” system could be implemented to answer urgent questions made by the customers. Additionally, the website will include a Frequently Asked Questions page in order to reduce the number of unnecessary calls from customers with the same enquiry. It is important to emphasise the UX/UI of this website, creating it to be user-friendly to support customers of all ages and backgrounds. As a group, we believe that this idea has the most potential to alleviate the struggles of the CMC and provide great service to the customers that utilise this company for their travelling needs.
 
-![Class Diagram](/Weekly Work/Graphs/ClassFinal.png)
+![Class Diagram](/Weekly%20Work/Graphs/ClassFinal.png)
