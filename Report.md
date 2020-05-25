@@ -23,6 +23,10 @@ Clients are encountering an unpleasant experience from contacting a major travel
 
 ![Customer Empathy Map](/Weekly%20Work/Graphs/CustomerEmpathy.png)
 
+### Relationship Manager Empathy Map
+
+![RM Empathy Map](/Weekly%20Work/Graphs/RMEmpathy.PNG)
+
 # Reflection
 
 The call management centre (CMC) requires a new and improved system to assist in managing a high traffic of calls from clients. To alleviate the issues and challenges the CMC currently faces, we have brainstormed ideas that may aid these issues. The main problems of the current system include the need to manually divert calls to the appropriate Relationship Managers (RM), resulting in longer wait times on the client end. This eventually leads to poor customer service and experience. Additionally, RM faces the difficulties of completing their tasks and jobs to a high standard, inhibiting them from providing excellent customer service.
