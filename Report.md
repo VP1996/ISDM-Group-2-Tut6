@@ -17,9 +17,11 @@ Clients are encountering an unpleasant experience from contacting a major travel
 - Relationship Managers
 - Call routing and distribution
 
-### Empathy Map
+## Empathy Map
 
-Insert Empathy Map here
+### Customer Empathy Map
+
+![Customer Empathy Map](/Weekly%20Work/Graphs/CustomerEmpathy.png)
 
 # Reflection
 
