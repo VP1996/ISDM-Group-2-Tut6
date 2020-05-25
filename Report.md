@@ -1,5 +1,3 @@
-# Introduction
-
 # Problem Definition
 
 Clients are encountering an unpleasant experience from contacting a major travel company’s call centre management system due to high traffic of calls and a lack of response. Additionally, Relationship Managers of the call centre management are inhibited from performing their tasks to a high standard, which proves challenging for this travel company. Due to the length of call handling times of clients having to repeat their problem at different stages of their call has consequently led to poor customer service and experience. In order to resolve the problem the call centre management is currently experiencing, there must be an improvement in the already existing information system to assist in communication and operation flow, resulting in a smoother and engaging experience for their customer.
@@ -91,8 +89,7 @@ We have brainstormed a possible solution that may aid in the problems the CMC is
 ![Use Case Diagram](/Weekly%20Work/Graphs/Use%20Case%20Diagrams.jpg)
 
 ## Activity Diagram
-![Present Activity Diagram](/Weekly%20Work/Graphs/AD.png)
-![Future Activity Diagram](/Weekly%20Work/Graphs/AD.png)
+![Activity Diagram](/Weekly%20Work/Graphs/ActivityDiagram.png)
 
 ## Collaborative Diagram
 ![Collab Diagram](/Weekly%20Work/Graphs/Collaboration%20Diagram.png)
@@ -107,3 +104,31 @@ Moreover, once the customer chooses to call via the online platform, they will b
 ## Class Diagram
 
 ![Class Diagram](/Weekly%20Work/Graphs/ClassFinal.png)
+
+#### Explanation of Class Diagram
+
+The new system will run parallel to the currently existing call centre management system. Customers will have to register or login to the web platform which is managed by a system administrator. The primary function of this web platform is to display FAQs to reduce the amount of call traffic that occurs. If the customer’s enquiry is unable to be solved, the customer can call via the web platform to be directed to the call platform. The call platform manages all calls from the web platform, and allocates the customer to an appropriate RM or waiting room based on the customer’s history. The RM is able to access the customer’s account details to provide them with the appropriate information. The call platform is also managed by a call monitor that can redirect customer’s with a suitable RM if there is an unfortunate matching between the two.
+
+# Competitive Advantages and Possible Effects if the Project Fails
+
+## Advantages
+
+Analysing the issues and systematic concerns of the current way the call centre management has been working, an upgrade to the system is essential. As a team, we had created a new platform, and ways in which the current issues could be eradicated. This would not only make the Call centre management more effective; it would also allow customers to feel more satisfied with their experience or purchase. We had all concluded that implementing a website would be a very efficient way to handle the excessive queries. This would allow any customer to have their queries solved.
+Converting this company’s current call management system to a website has been deemed as a much more time saving and as an efficient option. As this website will allow the customers to easily get answers to their simple questions which are very common without having to always call the company and wait for their turn to be connected to an available RM. This option will be a perfect solutions towards serving a wide age group of clients as it will allowed the aged population a call and get connected to an RM directly service whilst also providing the young generation with a just quick popup Live chat options to get their queries answered on the go or look through various Q/A without having to waste their time.
+
+With FAQ, the customers will no longer need to contact the managers for any small issues. As a result, it will lower the pressure on the manager by providing more free time for customers with more unique issues. Moreover, the customer will no longer need to wait for a response and waste their time on the call. They will get their issue solved or get some clarification on the go.
+Rather than having a regular waiting time option found in current call systems with just music playing throughout , in this website a new form of waiting time experience will be provided to the customer where the amount of waiting time remaining for one’s certain call to be processed will be constantly updated in order to keep them informed rather than kept clueless. For time conscious customers a newly added feature of requesting a call back will also be provided which can be used which will help the customer to be in line for the call without losing their spot . This will make the customer feel valued for their time by the company and will also lower the pressure on the system helping the network flow to be smoother.
+
+The request for a call back feature either from any random or a specific RM  will allow the customer to be freed from the waiting time without losing their spot. This feature will be beneficial to both the party’s as it will not make the call line busy/ interrupted due to multiple customers waiting. Having  this additional feature to develop an improved call system will help everyone save time, lower receptionist hiring cost, will cater to multiple customers at the same time and will make the company look more professional and trustworthy.
+Having a proper Login/ Register facility will provide clients with more convenience in regard to tracking their  previous product purchase or specific RM Call Details handling their case personally. This option will allow the customers to feel more protected in terms of their data being saved securely which will be allowed access only with the login system. The feature will also allow only the customer with an account to get special access to prior customers feedback allowing the business to look more transparent and reflect their values and morals towards their customer service.
+
+Access to customers' reviews in terms of their prior service experience will help the future clients to understand the business better and will help them to build their trust about the business. This will also help the client to get a better understanding about the type of products and services the company offers. Customers repetitively seeing good reviews from the previous clients of the business will allow the company to grow their customer base due to new customers wanting to buy their travel packages and will ultimately help grow the organisation's profit.
+
+## Possible Effects
+
+Through the development of the new call system for the travelling company, we outlined several benefits in the above paragraph. However, we also need to list the possible damages that the new system may cause to the company and overall processes. First of all, as our product will be based online, we can say that it would depend on the servers and energy and that it should be working 24/7. As a result, the servers may have some bugs due to overload, wrong programming or cyber attack. It is essential to monitor the system regularly. 
+
+Another issue that might cause trouble for a company is the layoff of all the receptionists. As our system would allow the customers to connect with the managers through a website and will have all the history and documentation online, there is no need for receptionists. Although the company doesn't specify how many receptionists they have, we can assume that the employees may feel angry at the company and could file a complaint, that could result in spending more money. However, switching to a web system is more efficient in the long term, rather than rely on human conditions. Moreover, our system could be working together with the receptionists if the company will decide to use it. It could lower the impact and secure some positions for the receptionists.
+
+The website development will require the software developers and programmer to set up the system and later monitor and improve it. It will cause the company to spend more money on the workers and additional spaces for servers. However, the company doesn't specify the size of the current system. As a result, we can assume that if the travelling company is large, after reducing the size of receptionists, some buildings can be converted into server rooms. Moreover, in order to save some personnel, the company may introduce the new position of the developer and programmer. If the receptionist has qualifications, he may try a new job.
+
