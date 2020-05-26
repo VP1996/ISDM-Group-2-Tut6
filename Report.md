@@ -6,6 +6,7 @@
         * [Customer Empathy Map](#customer-empathy-map)
         * [Relationship Manager Empathy Map](#relationship-manager-empathy-map)
       * [Point of View Statements](#point-of-view-statements)
+      * [How Might We (HMW) Statements](#how-might-we-(hmw)-statements)
    * [Reflection](#reflection)
    * [Prototyping and Models](#prototyping-and-models)
       * [Use Case Diagram](#use-case-diagram)
@@ -68,6 +69,11 @@ From these POV statements made, the following solutions were created:
 3. Reduce the waiting time and implement a  “call back” system. 
 4. Implement a FAQ on the website in order to reduce the number or unnecessary calls with the same enquiry.
 5. Design a user friendly website.
+
+## How Might We (HMW) Statements
+- How might we improve the overall quality of the system? Develop the website to support the call system and replace the receptionist - - with a much quicker and cheaper alternative.
+- How might we reduce the waiting time ? Implement a “call back” system and FAQ for the company.
+- How might we improve our customers' trust for our company?Design a user friendly website and make it more professional and interactive.
 
 # Reflection
 
