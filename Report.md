@@ -1,3 +1,23 @@
+# Table of Contents
+   * [Problem Definition](#problem-definition)
+      * [Objectives](#objectives)
+      * [Stakeholders](#stakeholders)
+      * [Empathy Map](#empathy-map)
+        * [Customer Empathy Map](#customer-empathy-map)
+        * [Relationship Manager Empathy Map](#relationship-manager-empathy-map)
+      * [Point of View Statements](#point-of-view-statements)
+   * [Reflection](#reflection)
+   * [Prototyping and Models](#prototyping-and-models)
+      * [Use Case Diagram](#use-case-diagram)
+      * [Activity Diagram](#activity-diagram)
+      * [Collaborative Diagram](#collaborative-diagram)
+        * [Summary of Diagrams](#summary-of-diagrams)
+      * [Class Diagram](#class-diagram)
+        * [Explanation of Class Diagram](#explanation-of-class-diagram)
+   * [Competitive Advantages and Possible Effects if the Project Fails](#competitive-advantages-and-possible-effects-if-the-project-fails)
+      * [Advantages](#advantages)
+      * [Possible Effects](#possible-effects)
+   
 # Problem Definition
 
 Clients are encountering an unpleasant experience from contacting a major travel company’s call centre management system due to high traffic of calls and a lack of response. Additionally, Relationship Managers of the call centre management are inhibited from performing their tasks to a high standard, which proves challenging for this travel company. Due to the length of call handling times of clients having to repeat their problem at different stages of their call has consequently led to poor customer service and experience. In order to resolve the problem the call centre management is currently experiencing, there must be an improvement in the already existing information system to assist in communication and operation flow, resulting in a smoother and engaging experience for their customer.
@@ -103,11 +123,11 @@ Moreover, once the customer chooses to call via the online platform, they will b
 
 ## Class Diagram
 
-![Class Diagram](/Weekly%20Work/Graphs/ClassFinal.png)
+![Class Diagram](/Weekly%20Work/Graphs/ClassDiagramUpdated.png)
 
 #### Explanation of Class Diagram
 
-The new system will run parallel to the currently existing call centre management system. Customers will have to register or login to the web platform which is managed by a system administrator. The primary function of this web platform is to display FAQs to reduce the amount of call traffic that occurs. If the customer’s enquiry is unable to be solved, the customer can call via the web platform to be directed to the call platform. The call platform manages all calls from the web platform, and allocates the customer to an appropriate RM or waiting room based on the customer’s history. The RM is able to access the customer’s account details to provide them with the appropriate information. The call platform is also managed by a call monitor that can redirect customer’s with a suitable RM if there is an unfortunate matching between the two.
+The new system will run parallel to the currently existing call centre management system. Customers will have to register or login to the web platform which is managed by a system administrator. The primary function of this web platform is to display FAQs to reduce the amount of call traffic that occurs. If the customer’s enquiry is unable to be solved, the customer can call via the web platform to be directed to the call platform. The call platform manages all calls from the web platform, and allocates the customer to an appropriate RM or waiting room based on the customer’s history. If the cusotmer is placed in the waiting room, they have an option to leave their details for a call back from an appropriate RM at a later time or date. The RM is able to access the customer’s account details to provide them with the appropriate information. The call platform is also managed by a call monitor that can redirect customer’s with a suitable RM if there is an unfortunate matching between the two.
 
 # Competitive Advantages and Possible Effects if the Project Fails
 
