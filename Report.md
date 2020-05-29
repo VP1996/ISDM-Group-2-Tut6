@@ -21,11 +21,11 @@
    
 # Problem Definition
 
-Clients are encountering an unpleasant experience from contacting a major travel company’s call centre management system due to high traffic of calls and a lack of response. Additionally, Relationship Managers of the call centre management are inhibited from performing their tasks to a high standard, which proves challenging for this travel company. Due to the length of call handling times of clients having to repeat their problem at different stages of their call has consequently led to poor customer service and experience. In order to resolve the problem the call centre management is currently experiencing, there must be an improvement in the already existing information system to assist in communication and operation flow, resulting in a smoother and engaging experience for their customer.
+Clients are encountering an unpleasant experience from contacting a major travel company’s call centre management system due to high traffic of calls leading to a lack of response. Additionally, Relationship Managers of the call centre management are inhibited from performing their tasks to a high standard, which proves challenging for this travel company. Due to the length of call handling times of clients having to repeat their problem at different stages of their call has consequently led to poor customer service and experience. In order to resolve the problem the call centre management is currently experiencing, there must be an improvement in the already existing information system to assist in communication and operation flow, resulting in a smoother and engaging experience for their customer.
 
 ## Objectives
 
-- To potentially solve the issue of customers feeling agitated and hanging up thus providing a solution to the long wait times
+- To solve the issue of customers feeling agitated and hanging up thus providing a solution to the long wait times
 - To develop a new online platform to improve customer service satisfaction
 - Integrate the online platform alongside the Call Management Centre
 - The online platform will primarily be FAQs to allow less inflow of query calls
@@ -48,20 +48,19 @@ Clients are encountering an unpleasant experience from contacting a major travel
 
 ## Point of View Statements
 
-Point Of View (POV) statements were established to help understand the problem. It enabled us to ideate in a goal-oriented matter. The following statements were created:
+Point Of View (POV) statements were established as a part of the Design Thinking Process to help understand the problem. It enabled us to ideate in a goal-oriented matter. The following statements were created:
 
-- As a customer, I feel frustrated that I am put on hold for a long time so I wish my call was redirected instantly to an RM.
-- As a customer, I fear that I will lose out on good promotional deals because of me not being made aware about it.
-- As a customer, I am anxious about not getting a refund if I miss my flight or trip due to some personal reason.
-- As a customer, I don't trust these travel companies as they can be fraud .
-- As a customer, I want a response to my inquiry as prompt as possible.
-- As a customer, I want to feel valued by the Relationship manager as I am helping them make sales.
-- As a Relationship Manager, I don’t want to be verbally abused by the customer so I wish there was a way to alleviate the stress on phone calls
-- As a Relationship Manager, I want to maintain a positive, empathetic and professional attitude towards the customers at all times.
-- As a Relationship Manager, I want to respond to customer inquiries promptly by acknowledging and resolving customer complaints.
-- As a Relationship Manager, I need to know about our products inside and out so that I can answer customer questions efficiently and to the best of my ability.
-- As a Relationship Manager, I want to ensure customer satisfaction and provide professional customer support.
-- As a Relationship Manager, I want to answer or make calls to clients to learn about and address their needs or other issues with products or services.
+#### Customer POV:
+
+- "I feel frustrated that I am put on hold for a long time, I wish I could be redirected instantly to a Relationship Manager. Being put on hold makes me fear that I will miss out on good promotional deals because I haven't been informed about it. I also want a prompt response to my inquiry so I don't have to keep thinking about my concerns."
+
+- "I think about the legitimacy of this travel company because I don't know if it could possible be fraud. I get anxious when I'm put on hold for a while and don't get an instant response. What if I don't get my refund if I miss my flight due to an injury or some other personal reason?! I want to feel valued by the Relationship Manager as I am making their sales."
+
+#### Relationship Manager POV:
+
+- "I trying to maintain a positive, empathetic and professional attitude towards customer at all times but it can get hard. I don't want to be verbally abused by customers due to long delays. I wish there was a way to alleviate stress on incoming phone calls or at least answer customer's questions efficiently and to the best of my ability."
+
+- "I am aware about the products and services our company sells, but I should know them inside and out. It would really help with responding to customer inquiries promptly by acknowledging and resolving customer complaints. Also, instead of having cutomer's wait in a call queue, I want to answer and even make calls back to cliented to address their needs or other issues with our products or services. "
 
 From these POV statements made, the following solutions were created:
 1. Develop the website to support the call system.
