@@ -9,6 +9,9 @@ A backlog was created through the "Issues" component of GitHub, providing a prio
 
 ![](/Weekly%20Work/Graphs/Backlog.PNG)
 
+To achieve a consistent workflow, we had come up with the idea to create folders within our repository under 'Weekly Work' which contains folders of each week's content and completed work. On our Friday meetings, we would upload and commit our work into the corresponding folder. We also held sprint reviews to discuss what we could improve on for next sprint, and to push any work that wasn't completed in the week to the backlog to complete it during the next sprint.
+
+
 ## Design Thinking
 
 
