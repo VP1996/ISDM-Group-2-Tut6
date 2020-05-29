@@ -12,9 +12,8 @@
       * [Use Case Diagram](#use-case-diagram)
       * [Activity Diagram](#activity-diagram)
       * [Collaborative Diagram](#collaborative-diagram)
-        * [Summary of Diagrams](#summary-of-diagrams)
       * [Class Diagram](#class-diagram)
-        * [Explanation of Class Diagram](#explanation-of-class-diagram)
+        * [Summary of Diagrams](#summary-of-diagrams)      
    * [Competitive Advantages and Possible Effects if the Project Fails](#competitive-advantages-and-possible-effects-if-the-project-fails)
       * [Advantages](#advantages)
       * [Possible Effects](#possible-effects)
@@ -50,29 +49,38 @@ Clients are encountering an unpleasant experience from contacting a major travel
 
 Point Of View (POV) statements were established as a part of the Design Thinking Process to help understand the problem. It enabled us to ideate in a goal-oriented matter. The following statements were created:
 
-#### Customer POV:
+### Customer POV:
 
-- "I feel frustrated that I am put on hold for a long time, I wish I could be redirected instantly to a Relationship Manager. Being put on hold makes me fear that I will miss out on good promotional deals because I haven't been informed about it. I also want a prompt response to my inquiry so I don't have to keep thinking about my concerns."
+- "I feel frustrated that I am put on hold for a long time, I wish I could be redirected instantly to a Relationship Manager. Being put on hold makes me fear that I will miss out on good promotional deals because I haven't been informed about them. I also want a prompt response to my inquiry so I don't have to keep thinking about my concerns."
 
-- "I think about the legitimacy of this travel company because I don't know if it could possible be fraud. I get anxious when I'm put on hold for a while and don't get an instant response. What if I don't get my refund if I miss my flight due to an injury or some other personal reason?! I want to feel valued by the Relationship Manager as I am making their sales."
+- "I think about the legitimacy of this travel company because it could possiblly be fraud. I get anxious when I'm put on hold for a while and don't get an instant response. What if I don't get my refund from my missed flight due to an injury or some other personal reason? I want to feel valued by the Relationship Manager as I am afterall, making their sales."
 
-#### Relationship Manager POV:
+### Relationship Manager POV:
 
-- "I trying to maintain a positive, empathetic and professional attitude towards customer at all times but it can get hard. I don't want to be verbally abused by customers due to long delays. I wish there was a way to alleviate stress on incoming phone calls or at least answer customer's questions efficiently and to the best of my ability."
+- "I try to maintain a positive, empathetic and professional attitude towards customer at all times but sometimes it can get hard. I don't want to be verbally abused by customers due to long delays. I wish there was a way to alleviate stress on incoming phone calls or at least be able to answer customer's questions efficiently and to the best of my ability."
 
-- "I am aware about the products and services our company sells, but I should know them inside and out. It would really help with responding to customer inquiries promptly by acknowledging and resolving customer complaints. Also, instead of having cutomer's wait in a call queue, I want to answer and even make calls back to cliented to address their needs or other issues with our products or services. "
+- "I am aware about the products and services that our company sells, but I should know them inside and out. It would really help with responding to customer inquiries promptly by acknowledging and resolving customer complaints. Also, instead of having customers wait in a call queue, I want to answer and be able to make calls back to the clients to address their needs or other issues with our products or services. "
 
-From these POV statements made, the following solutions were created:
+### From these POV statements made, the following solutions were created:
+
 1. Develop the website to support the call system.
+
 2. Replace the receptionist with a much quicker and cheaper alternative.
+
 3. Reduce the waiting time and implement a  “call back” system. 
+
 4. Implement a FAQ on the website in order to reduce the number or unnecessary calls with the same enquiry.
+
 5. Design a user friendly website.
 
 ## How Might We (HMW) Statements
-- How might we improve the overall quality of the system? Develop the website to support the call system and replace the receptionist - - with a much quicker and cheaper alternative.
-- How might we reduce the waiting time ? Implement a “call back” system and FAQ for the company.
-- How might we improve our customers' trust for our company?Design a user friendly website and make it more professional and interactive.
+
+- How might we improve the overall quality of the system? 
+  - Develop the website to support the call system and replace the receptionist with a much quicker and cheaper alternative.
+- How might we reduce the waiting time?
+  - Implement a “call back” system and FAQ for the company.
+- How might we improve our customers' trust for our company?
+  - Design a user friendly website and make it more professional and interactive.
 
 # Reflection
 
@@ -120,15 +128,14 @@ We have brainstormed a possible solution that may aid in the problems the CMC is
 ![Collab Diagram](/Weekly%20Work/Graphs/Collaboration%20Diagram.png)
 
 ## Class Diagram
-
 ![Class Diagram](/Weekly%20Work/Graphs/ClassDiagramUpdated.png)
 
 ### Summary of Diagrams
-In reference to the diagrams above, the new system provides more features for the customers and relationship managers. A receptionist is no longer required due to all processes occuring online, and all connections will happen automatically. After accessing the website, the customers will be able to access FAQ which will be continuously updated by the Software Administrator or the company managers. It will include all repetitive questions and issues that customers had in the past. Futhermore, the website will allow the users to call if their enquiry is unable to be solved via the website.
+In reference to the diagrams above, the new system provides more features for the customers and relationship managers. A receptionist is no longer required due to all processes occurring online and all connections happening automatically. After accessing the website, the customers will be able to access an FAQ page which will be continuously updated by the Software Administrator or the company managers. It will include all repetitive questions and issues that customers have faced previously. Furthermore, the website will allow the users to call if their enquiry is unable to be solved via the online platform.
 
-By calling through the online platform, the user will be automatically redirected to the next available Relationship Manager. However, if all the managers are busy, the user will be placed on the waiting room. Each page will have a specific ID and will display the customers approximate time of waiting. The customer may request a call back if they choose not to wait.  The user will be redirected to a new page where they will be able to leave their full name, email, phone number and issue. An available manager will receive the request and call the customer back. 
+By calling through the online platform, the user will be automatically redirected to the next available Relationship Manager. However, if all the managers are busy, the user will be placed within a waiting room. The waiting room will assign a specific ID for the customer's call and will display to the customers their approximate time of waiting. The customer may request a call back if they choose not to wait.  The user will be redirected to a new page where they will be able to leave their full name, email, phone number and issue. An available manager will receive the request and eventually call the customer back. 
 
-Moreover, once the customer chooses to call via the online platform, they will be able to register on the website. All calls will be saved within their history, and the system will remember which manager they talked to. Therefore, the next time the customer will have an issue, they will be able to login and request a call from a previously contacted relationship manager. 
+Once the customer chooses to call via the online platform, they will be able to register to the website. All calls will be saved within their history and the system will remember which manager they had previously talked to. This will allow the customer to login and request a call from their previously contacted Relationship Manager.
 
 # Competitive Advantages and Possible Effects if the Project Fails
 
