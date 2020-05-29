@@ -131,7 +131,7 @@ Moreover, once the customer chooses to call via the online platform, they will b
 
 ![Class Diagram](/Weekly%20Work/Graphs/ClassDiagramUpdated.png)
 
-#### Explanation of Class Diagram
+### Explanation of Class Diagram
 
 The new system will run parallel to the currently existing call centre management system. Customers will have to register or login to the web platform which is managed by a system administrator. The primary function of this web platform is to display FAQs to reduce the amount of call traffic that occurs. If the customer’s enquiry is unable to be solved, the customer can call via the web platform to be directed to the call platform. The call platform manages all calls from the web platform, and allocates the customer to an appropriate RM or waiting room based on the customer’s history. If the cusotmer is placed in the waiting room, they have an option to leave their details for a call back from an appropriate RM at a later time or date. The RM is able to access the customer’s account details to provide them with the appropriate information. The call platform is also managed by a call monitor that can redirect customer’s with a suitable RM if there is an unfortunate matching between the two.
 
