@@ -6,7 +6,7 @@
         * [Customer Empathy Map](#customer-empathy-map)
         * [Relationship Manager Empathy Map](#relationship-manager-empathy-map)
       * [Point of View Statements](#point-of-view-statements)
-      * [How Might We (HMW) Statements](#how-might-we-(hmw)-statements)
+      * [How Might We Statements](#how-might-we-statements)
    * [Reflection](#reflection)
    * [Prototyping and Models](#prototyping-and-models)
       * [Use Case Diagram](#use-case-diagram)
@@ -73,7 +73,7 @@ Point Of View (POV) statements were established as a part of the Design Thinking
 
 5. Design a user friendly website.
 
-## How Might We (HMW) Statements
+## How Might We Statements
 
 - How might we improve the overall quality of the system? 
   - Develop the website to support the call system and replace the receptionist with a much quicker and cheaper alternative.
