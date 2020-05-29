@@ -120,20 +120,16 @@ We have brainstormed a possible solution that may aid in the problems the CMC is
 ## Collaborative Diagram
 ![Collab Diagram](/Weekly%20Work/Graphs/Collaboration%20Diagram.png)
 
+## Class Diagram
+
+![Class Diagram](/Weekly%20Work/Graphs/ClassDiagramUpdated.png)
+
 ### Summary of Diagrams
 In reference to the diagrams above, the new system provides more features for the customers and relationship managers. A receptionist is no longer required due to all processes occuring online, and all connections will happen automatically. After accessing the website, the customers will be able to access FAQ which will be continuously updated by the Software Administrator or the company managers. It will include all repetitive questions and issues that customers had in the past. Futhermore, the website will allow the users to call if their enquiry is unable to be solved via the website.
 
 By calling through the online platform, the user will be automatically redirected to the next available Relationship Manager. However, if all the managers are busy, the user will be placed on the waiting room. Each page will have a specific ID and will display the customers approximate time of waiting. The customer may request a call back if they choose not to wait.  The user will be redirected to a new page where they will be able to leave their full name, email, phone number and issue. An available manager will receive the request and call the customer back. 
 
 Moreover, once the customer chooses to call via the online platform, they will be able to register on the website. All calls will be saved within their history, and the system will remember which manager they talked to. Therefore, the next time the customer will have an issue, they will be able to login and request a call from a previously contacted relationship manager. 
-
-## Class Diagram
-
-![Class Diagram](/Weekly%20Work/Graphs/ClassDiagramUpdated.png)
-
-### Explanation of Class Diagram
-
-The new system will run parallel to the currently existing call centre management system. Customers will have to register or login to the web platform which is managed by a system administrator. The primary function of this web platform is to display FAQs to reduce the amount of call traffic that occurs. If the customer’s enquiry is unable to be solved, the customer can call via the web platform to be directed to the call platform. The call platform manages all calls from the web platform, and allocates the customer to an appropriate RM or waiting room based on the customer’s history. If the cusotmer is placed in the waiting room, they have an option to leave their details for a call back from an appropriate RM at a later time or date. The RM is able to access the customer’s account details to provide them with the appropriate information. The call platform is also managed by a call monitor that can redirect customer’s with a suitable RM if there is an unfortunate matching between the two.
 
 # Competitive Advantages and Possible Effects if the Project Fails
 
