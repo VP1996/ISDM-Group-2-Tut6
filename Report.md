@@ -7,6 +7,7 @@
         * [Relationship Manager Empathy Map](#relationship-manager-empathy-map)
       * [Point of View Statements](#point-of-view-statements)
       * [How Might We Statements](#how-might-we-statements)
+      * [Possible Solutions](#possible-solutions)
    * [Reflection](#reflection)
    * [Prototyping and Models](#prototyping-and-models)
       * [Use Case Diagram](#use-case-diagram)
@@ -61,7 +62,20 @@ Point Of View (POV) statements were established as a part of the Design Thinking
 
 - "I am aware about the products and services that our company sells, but I should know them inside and out. It would really help with responding to customer inquiries promptly by acknowledging and resolving customer complaints. Also, instead of having customers wait in a call queue, I want to answer and be able to make calls back to the clients to address their needs or other issues with our products or services. "
 
-### From these POV statements made, the following solutions were created:
+## How Might We Statements
+
+From the POV statements created above, we also developed How Might We (HMW) statements to brainstorm new ideas and address or address opportunities.
+
+- How might we improve the overall quality of the system? 
+  - Develop the website to support the call system and replace the receptionist with a much quicker and cheaper alternative.
+- How might we reduce the waiting time?
+  - Implement a “call back” system and FAQ for the company.
+- How might we improve our customers' trust for our company?
+  - Design a user friendly website and make it more professional and interactive.
+  
+## Possible Solutions
+
+From these POV statements made, the following solutions were created:
 
 1. Develop the website to support the call system.
 
@@ -72,15 +86,6 @@ Point Of View (POV) statements were established as a part of the Design Thinking
 4. Implement a FAQ on the website in order to reduce the number or unnecessary calls with the same enquiry.
 
 5. Design a user friendly website.
-
-## How Might We Statements
-
-- How might we improve the overall quality of the system? 
-  - Develop the website to support the call system and replace the receptionist with a much quicker and cheaper alternative.
-- How might we reduce the waiting time?
-  - Implement a “call back” system and FAQ for the company.
-- How might we improve our customers' trust for our company?
-  - Design a user friendly website and make it more professional and interactive.
 
 # Reflection
 
