@@ -39,7 +39,7 @@ Clients are encountering an unpleasant experience from contacting a major travel
 
 ### Customer Empathy Map
 
-![Customer Empathy Map](/Weekly%20Work/Graphs/CustomerEmpathy.png)
+![Customer Empathy Map](/Weekly%20Work/Graphs/CustomerEmpathy1.png)
 
 ### Relationship Manager Empathy Map
 
